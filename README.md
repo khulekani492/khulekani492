@@ -2,6 +2,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> FullStack Software dev
 
 ## CODE IS ART , MY ART.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines==THREE+PROJECTS-+IN+DEVELOPMENT;;)](https://git.io/typing-svg)
 
 <!--
 **khulekani492/khulekani492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
