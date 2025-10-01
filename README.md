@@ -1,11 +1,9 @@
 ## Hi there 👋
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> FullStack Software dev
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=MTech+2024+from+IIIT+Gwalior;Award+Winning+Ex-Software+Engineer+at+Xoriant+Solutions;3+Star+Competitive+programmer+on+Leetcode;GATE+Qualified+All+India+Rank+8028;Design+Develop+Deliver;"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines==THREE+PROJECTS-+IN+DEVELOPMENT;Rental+Management;alertnessMap;Portfolio)](https://git.io/typing-svg)
 
 ## CODE IS ART , MY ART.
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines==THREE+PROJECTS-+IN+DEVELOPMENT;Rental+Management;alertnessMap;Portfolio)](https://git.io/typing-svg)
+
 
 <!--
 **khulekani492/khulekani492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
