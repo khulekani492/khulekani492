@@ -5,7 +5,7 @@
 </p>
 
 ## CODE IS ART , MY ART.
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines==THREE+PROJECTS-+IN+DEVELOPMENT;;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines==THREE+PROJECTS-+IN+DEVELOPMENT;Rental+Management;alertnessMap;Portfolio)](https://git.io/typing-svg)
 
 <!--
 **khulekani492/khulekani492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
