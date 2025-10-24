@@ -5,9 +5,11 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" />
 </picture> 
 
+
 ### **Khule**  
 ### **Software Engineer**  
-**Currently learning and Implementing System Design, Microservices, Distributed Systems & MVN Architecture with JAVA in my projects**
+**Currently learning and implementing System Design, Microservices, Distributed Systems & MVN Architecture with Java in my projects.**
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Four+PROJECTS+-+IN+DEVELOPMENT;Rental+Management+Project+-+JAVA;alertnessMap+Project+-+Python;Portfolio+Project+-+Stay+Safe+-+Postgres+%26+Java;Learning+System+Design+%26+Microservices;Exploring+Distributed+Systems+%26+MVN+Architecture)](https://git.io/typing-svg)
 
