@@ -1,6 +1,6 @@
 ## Hi there 👋
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> FullStack Software Dev
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Four+PROJECTS-+IN+DEVELOPMENT;Rental+Management+Project++JAVA;alertnessMap+Project++Python;Portfolio+Project+Stay-Safe++Postgres)](https://git.io/typing-svg)
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Software engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Four+PROJECTS-+IN+DEVELOPMENT;Rental+Management+Project++JAVA;alertnessMap+Project++Python;Portfolio++Project+Stay-Safe++Postgres)](https://git.io/typing-svg)
 
 ## CODE IS ART , MY ART.
 
@@ -11,13 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=khulekani492&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khulekani492&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=khulekani492&icon=0&color=0)](https://visitcount.itsvg.i
-
-<!--
-**khulekani492/khulekani492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
