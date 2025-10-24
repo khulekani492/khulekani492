@@ -1,15 +1,36 @@
-## Hi there 👋
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Software engineer
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Four+PROJECTS-+IN+DEVELOPMENT;Rental+Management+Project++JAVA;alertnessMap+Project++Python;Portfolio++Project+Stay-Safe++Postgres & Java)](https://git.io/typing-svg)
+<div align="center">
 
-## CODE IS ART , MY ART.
+## Hi there 👋  
+<picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" />
+</picture>  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
+### **Software Engineer**  
+**Learning System Design, Microservices, Distributed Systems & MVN Architecture**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Four+PROJECTS+-+IN+DEVELOPMENT;Rental+Management+Project+-+JAVA;alertnessMap+Project+-+Python;Portfolio+Project+-+Stay+Safe+-+Postgres+%26+Java;Learning+System+Design+%26+Microservices;Exploring+Distributed+Systems+%26+MVN+Architecture)](https://git.io/typing-svg)
+
+---
+
+## 🎨 CODE IS ART — MY ART  
+
+### 💻 Tech Stack  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=khulekani492&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=khulekani492&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khulekani492&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
 
 
 - 🔭 I’m currently working on ...
