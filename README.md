@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Software engineer
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Four+PROJECTS-+IN+DEVELOPMENT;Rental+Management+Project++JAVA;alertnessMap+Project++Python;Portfolio++Project+Stay-Safe++Postgres)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Four+PROJECTS-+IN+DEVELOPMENT;Rental+Management+Project++JAVA;alertnessMap+Project++Python;Portfolio;Project+Stay-Safe++Postgres & Java)](https://git.io/typing-svg)
 
 ## CODE IS ART , MY ART.
 
